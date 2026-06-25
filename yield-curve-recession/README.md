@@ -202,5 +202,3 @@ All data via the [FRED API](https://fred.stlouisfed.org/) (Federal Reserve Bank 
 ## Article
 
 *"The Yield Curve Has Predicted Every Recession Since 1955. I Tested It."*
-
-[LinkedIn article link — add when published]
